@@ -28,8 +28,8 @@ pexpect==4.0.1
 pickleshare==0.6
 ptyprocess==0.5.1
 Pygments==2.1.3
-python-dateutil==2.5.2
 pytz==2016.3
+python-dateutil==2.5.2
 pyzmq==15.2.0
 qtconsole==4.2.1
 requests==2.8.1
